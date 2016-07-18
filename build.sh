@@ -1,5 +1,5 @@
 #Test Script
-!#/bin/bash
+#!/bin/bash
 
 
 echo "test success"
